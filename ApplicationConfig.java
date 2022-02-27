@@ -4,9 +4,9 @@ import java.util.Set;
 import javax.ws.rs.core.Application;
 
 /**
- *
  * @author maisa
  */
+
 @javax.ws.rs.ApplicationPath("supermark")
 public class ApplicationConfig extends Application {
 
