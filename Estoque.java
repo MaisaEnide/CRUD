@@ -1,6 +1,7 @@
 
 package DAO;
 
+//Atributos
 public class Estoque {
     
     private int codigo;
@@ -8,6 +9,7 @@ public class Estoque {
     private String tipo;
     private double valor;
     
+ //Metodos   
     public int getCodigo(){
         return this.codigo;
     }
